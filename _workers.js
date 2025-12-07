@@ -450,7 +450,6 @@ function getHTML() {
     <div class="footer">
       <i class="fas fa-copyright"></i> Copyright 2025 <span class="separator">|</span>
       <a href="https://gist.github.com/eooce/d3549e80a67dd39e47a55f81bae6b802" target="_blank"><i class="fab fa-github"></i> GitHub源代码</a> <span class="separator">|</span>
-      <a href="https://t.me/eooceu" target="_blank"><i class="fas fa-telegram"></i> telegram群组</a>
       <p style="margin-top: 10px;">此站点中api key仅用于请求,不记录,如有疑问,可自行在cloudflare workers部署</p>
     </div>
   </div>
